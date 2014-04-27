@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Alert Me !</string>
+    <string name="select_text">Select the categories you are interested in:</string>
+    <string name="next">Next</string>
+    <string name="movies">Movies</string>
+    <string name="shopping">Shopping</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="events">Events</string>
+
+</resources>
